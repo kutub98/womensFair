@@ -1,0 +1,96 @@
+
+.my-container{
+  padding: 16px 4% !important;
+}
+
+.navbar-nav .nav-item .active,
+.navbar-nav .nav-item a{
+  color: white;
+  font-weight:600;
+  font-size: 16px;
+}
+.hero-Section{
+  background-color: #3b5d50;
+}
+.customNav{
+  background-color: #3b5d50;
+  padding: 16px 4% !important;
+  color: white;
+}
+
+.customNav .logo{
+  display: flex;
+  align-items: center;
+}
+.customNav .logoImg{
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  margin-right: 14px;
+}
+
+
+/* hero section  */
+.Modern{
+  color: yellow;
+  /* font-size: ; */
+}
+.ModernSmall{
+  color: white;
+  font-weight: 600;
+}
+
+.Shop{
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 25px;
+}
+
+
+
+.product-section{
+  margin: 80px 0;
+}
+
+.testimoniImg{
+  height: 300px;
+}
+
+.ceoImg{
+  width: 120px !important;
+  height: 120px !important;
+  border-radius: 50% !important;
+}
+
+
+.why-choose-section .address-title{
+  font-size: 24px;
+  font-weight: bold;
+
+}
+
+
+/* #videoContainer {
+  position: relative;
+}
+
+/* Style for the play button */
+#playButton {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}
+
+.soicalButton{
+  position: fixed;
+  background-color: white;
+  display: block;
+  padding: 8px;
+  right: 0;
+  bottom: 10px;
+  width: 80px;
+  text-align: center;
+  border-radius: 8px;
+}
